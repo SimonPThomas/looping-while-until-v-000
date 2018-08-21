@@ -5,7 +5,8 @@ until counter == 10
 	puts "Wingardium Leviosa"
 
 	counter += 1
-	
+
 	end
 	#your code here
+
 end
